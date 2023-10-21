@@ -1,32 +1,50 @@
-# MSC_DA_CA1 - Exploring the Link Between Population Trends and Renting Prices
+# Data Analysis of FIFA World Cup from 1930 to 2014
 
-Population in Ireland X Cost of Renting
+Overview:
 
-This repository contains code and data for a project to model and analyze the population of Ireland and Renting Prices. The project uses data from the following sources:
-* Central Statistics Office (CSO) of Ireland, which is available at https://data.cso.ie/ 
-* IRELAND'S OPEN DATA PORTAL, which is available at https://data.gov.ie.
-* 
-The aim of this project is to explore the link between population trends and renting prices in Ireland. To achieve this goal, I will investigate how population growth, immigration, migration, and other population factors affect the cost of renting a home in Ireland.
+This project is a data analysis of the FIFA World Cup from 1930 to 2014. The goal of this project is to gain insights into the history of the World Cup, such as:
 
-Understanding the link between population trends and renting prices will help the government to make policy decisions to help people and to develop policies that increase the supply of affordable housing or provide financial assistance to renters who are struggling to afford their rent.
+    Which countries have been the most successful?
+    How has the game changed over time?
+    What are some of the interesting trends and patterns that can be observed?
+    Has the number of goals scored per match increased over time?
 
-The project is focused on the following areas of interest:
+Data:
 
-    How has the population of Ireland changed in recent years?
-    How have renting prices changed in recent years?
-    Relationship between population growth and renting prices in Ireland
-    Population trends can be used to predict future rent prices in Ireland.
+The data used for this project was obtained from the Kaggle website. The data includes information on all matches played in the World Cup from 1930 to 2014, as well as information on the teams and players involved.
+Dataset: https://www.kaggle.com/datasets/abecklas/fifa-world-cup
 
-    
-A variety of statistical methods will be used to analyze it. For example, you could use regression analysis to model the relationship between population growth and renting prices. You could also use forecasting methods to predict future rent prices based on population trends.
 
-To contribute to this project:
+Methods:
 
-    Fork this repository.
-    Clone the forked repository to your local machine.
-    Create a new branch for your changes.
-    Make your changes and commit them to your branch.
-    Push your branch to your forked repository.
-    Create a pull request to merge your changes into this repository.
+A variety of data analysis methods were used to gain insights into the data. These methods included:
 
-Please note: This project is still under development.
+    Exploratory data analysis (EDA)
+    Statistical analysis
+    Visualization
+
+Results:
+
+The expected results of the data analysis will reveal a number of interesting insights into the history of the World Cup. 
+
+
+Ongoing Project
+
+This is an ongoing project, and we're continuously working to explore and analyze the FIFA World Cup data. We believe that there's still so much more to discover, and we invite you to join us on this journey.
+How to Contribute
+
+If you're interested in contributing to this project, whether it's through data analysis, code improvements, or any other form of contribution, please feel free to get involved. We welcome contributions from all skill levels, and your input can help us uncover even more insights from the data.
+
+Here are a few ways you can contribute:
+
+    Analyzing the data in more detail to identify additional insights
+    Using the data to develop predictive models
+    Comparing the data to data from other sporting events
+
+No contribution is too small, and your ideas and efforts are highly appreciated.
+
+Get Started
+
+To get started, simply fork this repository and make your contributions. If you have any questions or need guidance on how to contribute, don't hesitate to reach out to us. Together, we can continue to enhance our understanding of the FIFA World Cup.
+
+Thank you for considering joining our project, and we look forward to collaborating with you!
