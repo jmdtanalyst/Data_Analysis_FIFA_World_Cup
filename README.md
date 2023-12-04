@@ -2,7 +2,10 @@ https://jmcloudpro.com
 
 # Data Analysis of FIFA World Cup from 1930 to 2014
 
-Overview:
+
+![image](https://github.com/jmdtanalyst/Data_Analysis_FIFA_World_Cup/assets/147097604/d92d078a-c96a-469d-94a9-34d6416d7b96)
+
+# Overview:
 
 This project is a data analysis of the FIFA World Cup from 1930 to 2014. The goal of this project is to gain insights into the history of the World Cup, such as:
 
@@ -11,13 +14,13 @@ This project is a data analysis of the FIFA World Cup from 1930 to 2014. The goa
     What are some of the interesting trends and patterns that can be observed?
     Has the number of goals scored per match increased over time?
 
-Data:
+# Data:
 
 The data used for this project was obtained from the Kaggle website. The data includes information on all matches played in the World Cup from 1930 to 2014, as well as information on the teams and players involved.
 Dataset: https://www.kaggle.com/datasets/abecklas/fifa-world-cup
 
 
-Methods:
+# Methods:
 
 A variety of data analysis methods were used to gain insights into the data. These methods included:
 
@@ -25,12 +28,12 @@ A variety of data analysis methods were used to gain insights into the data. The
     Statistical analysis
     Visualization
 
-Results:
+# Results:
 
 The expected results of the data analysis will reveal a number of interesting insights into the history of the World Cup. 
 
 
-Ongoing Project
+#Ongoing Project
 
 This is an ongoing project, and we're continuously working to explore and analyze the FIFA World Cup data. We believe that there's still so much more to discover, and we invite you to join us on this journey.
 How to Contribute
